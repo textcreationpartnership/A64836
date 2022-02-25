@@ -1,0 +1,446 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A warning to back-sliders, or, A discovery for the recovery of fallen ones delivered in a sermon at Pauls, before the Right Honourable, the Lord Mayor and Aldermen of the city of London / Ralph Venning.</title>
+            <author>Venning, Ralph, 1621?-1674.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 63 KB of XML-encoded text transcribed from 33 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64836</idno>
+            <idno type="STC">Wing V229</idno>
+            <idno type="STC">ESTC R8176</idno>
+            <idno type="EEBO-CITATION">12145255</idno>
+            <idno type="OCLC">ocm 12145255</idno>
+            <idno type="VID">54940</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64836)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 54940)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 902:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A warning to back-sliders, or, A discovery for the recovery of fallen ones delivered in a sermon at Pauls, before the Right Honourable, the Lord Mayor and Aldermen of the city of London / Ralph Venning.</title>
+                  <author>Venning, Ralph, 1621?-1674.</author>
+               </titleStmt>
+               <extent>[8], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.R. &amp; E.M. for John Rothwel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Revelation II, 5 --  Sermons.</term>
+               <term>Salvation --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-03</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-03</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:54940:1"/>
+            <pb facs="tcp:54940:1"/>
+            <p>A WARNING TO BACK-SLIDERS; OR, A DISCOVERY FOR THE RECOVERY OF FALLEN ONES.</p>
+            <p>Delivered in a SERMON at <hi>Pauls,</hi> before the Right Honourable, the Lord Mayor and Aldermen of the CITY of <hi>LONDON.</hi>
+            </p>
+            <p>By <hi>RALPH VENNING.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Hoſea 2.7.</hi>
+               </bibl> Then ſhall ſhe ſay, I will go and returne to my firſt husband, for then was it better with me then now.</q>
+            <p>LONDON, Printed by <hi>T. R.</hi> &amp; <hi>E. M.</hi> for <hi>John Rothwel,</hi> at the Fountaine and Bear in Gold-ſmiths Row, in <hi>Cheap-ſide.</hi> 1654.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:54940:2"/>
+            <pb facs="tcp:54940:2"/>
+            <head>To the Right Honourable THO. VINER, LORD MAJOR: AND THE <hi>RIGHT WORSHIPFUL,</hi> THE ALDERMEN of the City of <hi>LONDON.</hi>
+            </head>
+            <opener>
+               <salute>Honourable and honoured,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Hope it will not be impu<g ref="char:EOLhyphen"/>ted to me as a crime, that I did all I could to keep <hi>this Sermon</hi> from the Preſſe, not fearing that it would do any hurt; <hi>but rather</hi> that it might do little, if any good, in this hard, <hi>ve<g ref="char:EOLhyphen"/>ry hard-hearted age.</hi> But ſeeing it hath
+<pb facs="tcp:54940:3"/>pleaſed (I think I may <hi>without offence</hi> ſay) God and you, to call it to remem<g ref="char:EOLhyphen"/>brance, ſome moneths after it was preacht I could not but obey your Order, in giv<g ref="char:EOLhyphen"/>ing you that which you called for, viZ. <hi>the Sermon,</hi> and not another thing. For indeed, having obſerved ſome books frontiſpic'd <hi>with a Sermon Preacht at PAULS,</hi> which (as 'tis ſaid of Sir Francis <hi>Drake's</hi> Ship) had nothing left <hi>(not a plank nor rib)</hi> but the very name thereof; I durſt not <hi>(and I hope none will think it a too nice and a needleſſe ſcruple of conſcience, that I ſay)</hi> I durſt not give you that to read which you did not heare. You have the ſame things and words, with no more variation then; <hi>nor inded ſo much as,</hi> the neceſſary, <hi>very neceſſary</hi> difference, that is to be put between pen and tongue, required.</p>
+            <p>If it be eſtimated by the ſeaſonableneſſe of it, it will <hi>(as it ſeems you judge)</hi> be beautifull; and I hope that it will not be the leſſe acceptable, nor the <hi>more</hi> ſucceſleſs, for being plaine: for I profeſſe
+<pb facs="tcp:54940:3"/>
+               <hi>(to prevent all exceptions to be made againſt it on that account)</hi> that it hath more of heart, then Art, and of af<g ref="char:EOLhyphen"/>fection, then affectation. The time would not give me leave to <hi>uſher</hi> it in with any Preface, nor to <hi>cloſe</hi> it with any Orato<g ref="char:EOLhyphen"/>rious inſinuations; nor is it <hi>(I think)</hi> fit to do it now, on the grounds fore<g ref="char:EOLhyphen"/>mentioned.</p>
+            <p>
+               <hi>Homely,</hi> yet I hope <hi>wholſome,</hi> as it is, let it go; and the bleſſing of God go along with it. <hi>The leſſe man</hi> appears in it, the more God may appeare by it. If it may bring ſome glory to <hi>his Name,</hi> by engaging any <hi>to remember</hi> either from whence they ſhould not fall, and ſo to ſtand faſt; or any <hi>to remember</hi> from whence they have fallen, and ſo to re<g ref="char:EOLhyphen"/>turne, I ſhall be glad, though my <hi>Name</hi> ſuffer by it, as I believe in ſome mens eſteemes it will. But not to trouble you a<g ref="char:EOLhyphen"/>ny longer with ſuch things, nor to enlarge <hi>this Porch</hi> beyond the proportion allow<g ref="char:EOLhyphen"/>able; <hi>I</hi> ſhall inſtead of ſpeaking to you ſpeak to God for you.</p>
+            <pb facs="tcp:54940:4"/>
+            <p>I do heartily beſeech Almighty God, <hi>that that City</hi> (over which God hath made you overſeers) <hi>may never become an harlot,</hi> that it may never be ſaid of it, <hi>It hath loſt its firſt love,</hi> and left its firſt works. <hi>It was full of judgement, righteouſneſſe</hi> did <hi>lodge in it, but now murderers. That its</hi> Silver <hi>may ne<g ref="char:EOLhyphen"/>ver become</hi> droſſe, <hi>nor its</hi> wine <hi>be mixt with</hi> water; <hi>that its</hi> Princes <hi>may never be rebellious, noir companions of thieves; that none of them may love gifts, nor follow after rewards; that,</hi> Oh that, it may never be ſaid, <hi>they judge not the fatherleſſe, nor doth the cauſe of the widow come before them;</hi> Leſt the Lord of Hoſts, the Mighty One of <hi>Iſrael</hi> ſhould ſay, <hi>Ah, I will eaſe me of mine adver<g ref="char:EOLhyphen"/>ſaries, and avenge me of mine enemies.</hi> The good Lord rather turne his hand, <hi>and purely purge away the droſſe, and take away the tin, and make Judges as at the</hi> firſt, <hi>and Counſellours as at the</hi> begin<g ref="char:EOLhyphen"/>ing; that ſhe may be called, <hi>the City of righteouſneſſe, the faithfull City;</hi>
+               <pb facs="tcp:54940:4"/>and for theſe things, <hi>the beauty and the glory of the whole Earth.</hi> Thus, <hi>honour<g ref="char:EOLhyphen"/>able and honoured,</hi> is the hearty prayer of</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>March 1654.</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>Your</hi> humble Servant, RALPH VENNING.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:54940:5"/>
+            <pb n="1" facs="tcp:54940:5"/>
+            <head>A WARNING TO <hi>BACKSLIDERS,</hi> OR A Diſcovery for the Re<g ref="char:EOLhyphen"/>covery of <hi>Fallen ones.</hi>
+            </head>
+            <epigraph>
+               <q>
+                  <p>Let him that hath an care to heare, heare what the Spirit ſaith to the Angel of the Church of Epheſus.</p>
+                  <bibl>
+                     <hi>REVEL. 2.5.</hi>
+                  </bibl>
+                  <p>Remember therefo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e <hi>from whence</hi> thou art fallen, and repent, and do <hi>the firſt</hi> workes; or elſe I will come unto thee <hi>quickly,</hi> and will remove thy Candle<g ref="char:EOLhyphen"/>ſtick out of his place, <hi>except thou repent.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>N this Epiſtle you have theſe three parts,</p>
+            <p n="1">1. The <hi>Superſcription,</hi> by way of Preface, and Introduction, in the firſt <hi>verſe.</hi>
+            </p>
+            <pb n="2" facs="tcp:54940:6"/>
+            <p n="2">2. You have the <hi>Contents</hi> of the Epiſtle, in the five following <hi>verſes;</hi> wherein you have,
+<list>
+                  <item>1. A commendation, in the 2, 3, and 6th. <hi>verſes.</hi>
+                  </item>
+                  <item>2. An exception, which im<g ref="char:EOLhyphen"/>plies a reproof, <hi>v.</hi> 4.</item>
+                  <item>3. An exhortation in the Text, <hi>v.</hi> 5.</item>
+               </list>
+            </p>
+            <p n="3">3. The third branch of the Epiſtle, <hi>viz.</hi> the <hi>Epilogue</hi> or concluſion of it, <hi>v.</hi> 7 He that hath an eare, let him hear what the Spirit ſaith to the Churches. <hi>That which is writen to one, is ſpoken to all.</hi>
+            </p>
+            <p>My Text falls among the <hi>Contents</hi> of the Epiſtle, and is the third part thereof, <hi>viz.</hi> the exhortation backt with a threatning.</p>
+            <p>In the exhortation you have three things required.</p>
+            <list>
+               <item>1. A ſight and ſenſe of their ſin; <hi>Remember therefore from whence thou art fallen.</hi>
+               </item>
+               <item>2. A repentance for their ſin; <hi>Remember, and repent.</hi>
+               </item>
+               <pb n="3" facs="tcp:54940:6"/>
+               <item>3. A returning from their ſin; <hi>Do the firſt works.</hi>
+               </item>
+            </list>
+            <p>The threatning hath theſe three things in it.</p>
+            <list>
+               <item>1. The certainty of Chriſts coming; <hi>I will come.</hi>
+               </item>
+               <item>2. The ſuddenneſſe of his com<g ref="char:EOLhyphen"/>ing; <hi>I will come quickly.</hi>
+               </item>
+               <item>3. The end of his coming; <hi>I will remove thy candleſtick out of his place, unleſſe thou repent.</hi>
+               </item>
+            </list>
+            <p>I ſhall very briefly touch a few general Obſervations, which the con<g ref="char:EOLhyphen"/>text and the Text do afford us, and then come cloſer to the words.</p>
+            <p>
+               <hi>The firſt Obſervation is this,</hi> That God takes ſpecial notice, and keeps an exact account of all our doings, be they good, or be they bad; (<hi>I know thy works,</hi> viz. <hi>what they were, and what they are.</hi>) God hath his books of Remem<g ref="char:EOLhyphen"/>brance written, according to which he will judge the world; for he will bring every work to judgement, with every ſecret thing, whether
+<pb n="4" facs="tcp:54940:7"/>it be good or evil; <hi>I know thy works, &amp;c.</hi>
+            </p>
+            <p n="2">2. <hi>Obſ.</hi> That perſons may be prais'd to their diſpraiſe: they may be com<g ref="char:EOLhyphen"/>mended to their diſcommendation; <hi>I know thy works, but,</hi> or <hi>Nevertheleſſe.</hi>
+            </p>
+            <p>A mans praiſe <hi>is ever the leſſe, when he is prais'd with a Nevertheleſſe.</hi> To commend with a but, is but to diſ<g ref="char:EOLhyphen"/>commend. To ſay, ſuch a man <hi>was</hi> a meek man, <hi>was</hi> an humble man, <hi>was</hi> an holy man, is not a praiſe, but a diſ<g ref="char:EOLhyphen"/>praiſe; you did run well, who hin<g ref="char:EOLhyphen"/>dred you? Such an one was good, but <hi>quantum mutatus ab illo?</hi> the man is not what he was. Praiſes with ex<g ref="char:EOLhyphen"/>ceptions are (little better then) diſ<g ref="char:EOLhyphen"/>paragements. <hi>Nevertheleſſe, &amp;c.</hi>
+            </p>
+            <p n="3">3. <hi>Obſ.</hi> The good we have done will not excuſe the bad we do do; God will not put the good in one ba<g ref="char:EOLhyphen"/>lance, and the bad in another, and make allowances of the bad for the goods ſake; <hi>No,</hi> it's no excuſe at all to <hi>Epheſus,</hi> that ſhe had labour'd, and that ſhe had wrought, when it can be ſaid.
+<pb n="5" facs="tcp:54940:7"/>
+               <hi>I have againſt thee, and thou haſt left thy firſt workes.</hi> Former fruitfulneſs will be no excuſe for preſent barrenneſſe; former induſtry will not plead for any mans preſent idleneſſe; a good begin<g ref="char:EOLhyphen"/>ning will never make amends for a bad end. If the latter end be worſe then the beginning, it had been better for them, they had never knowne the way of righteouſneſſe, then when they have known it, to depart from the holy Commandment. <hi>I have againſt thee &amp;c.</hi>
+            </p>
+            <p n="4">4. <hi>Obſ.</hi> That when love decayes, our works decay; he layes all upon this: <hi>Thou haſt left thy firſt love.</hi> As is our love of Cod, ſuch will be our obedience unto God. If our love be quick and lively, our life will be full of good works; but if once love de<g ref="char:EOLhyphen"/>cline, works will decay; for faith <hi>it ſelf</hi> worketh by love; <hi>Thou haſt left thy firſt love.</hi>
+            </p>
+            <p n="5">5 <hi>Obſ.</hi> That God doth not ſtrike without warning. God doth not ſur<g ref="char:EOLhyphen"/>priſe
+<pb n="6" facs="tcp:54940:8"/>his creatures, not fall upon them at an unawares, but he gives them no<g ref="char:EOLhyphen"/>tice of his coming, before he comes; &amp; he admoniſheth before he threatens. <hi>Remember,</hi> (ſaith he) <hi>or elſe I will come.</hi> God doth not take advantage againſt poor ſinners, nor deal with them ac<g ref="char:EOLhyphen"/>cording to their iniquities; for then, who could ſtand? but God, though he might uſe his Sword, will yet uſe his Word, and therefore gives them no<g ref="char:EOLhyphen"/>tice before-hand; and this is the very reaſon given by <hi>Peter,</hi> why God makes not haſte to deſtroy the world, becauſe <hi>(ſaith he)</hi> God is longſuffering, not willing that any ſhould periſh, but that all ſhould come to repentance; <hi>Repent, or elſe I will come, &amp;c.</hi>
+            </p>
+            <p n="6">6. <hi>Obſ.</hi> If Gods admonitions do not take with us, Gods threatnings will certainly take hold of us; if we do not hear his Word, we ſhall undoubtedly feel his Sword; if you do not repent, <hi>I will</hi> (without doubt, certainly I will) <hi>come,</hi> and remove thy candleſtick, &amp;c,</p>
+            <pb n="7" facs="tcp:54940:8"/>
+            <p>I ſhall mention no more as to the ge<g ref="char:EOLhyphen"/>neral; only give you four other Obſer<g ref="char:EOLhyphen"/>vations from the Text, and then ſingle out one of them to ſpeak unto.</p>
+            <div type="section">
+               <head>The firſt is this,</head>
+               <p n="1">1. That to remember from whence we are fallen, is a very great help to our recovery; to remember from whence we are fallen, doth very much conduce to our recovery; tis like going into one's native aire, when in a con<g ref="char:EOLhyphen"/>ſumption: <hi>Remember, &amp;c.</hi>
+               </p>
+               <p n="2">2. God doth not only require that we ſhould remember from whence we are fallen, but he alſo requires that we ſhould repent for falling; <hi>Remember, and repent.</hi>
+               </p>
+               <p n="3">3. God doth not only require that we ſhould repent for ſin, but he alſo requires that we ſhould re<g ref="char:EOLhyphen"/>pent from ſinne, and do the firſt works. Repentance is to be <hi>not only for dead works, but from dead works.</hi> To repent without reformation is a contradiction, and whoſoever <hi>(as one
+<pb n="8" facs="tcp:54940:9"/>quotes from Tertullian)</hi> repents with a contradiction, ſhall be pardon'd with a contradiction; to repent and conti<g ref="char:EOLhyphen"/>nue in ſin, is repentance with a contra<g ref="char:EOLhyphen"/>diction; to be pardon'd and go to hell, is a pardon with a contradiction; ſuch repentance, ſuch pardon; <hi>Do then the first works.</hi>
+               </p>
+               <p n="4">4. If backſliders do not remem<g ref="char:EOLhyphen"/>ber, and repent, and reforme, their doom will be ſad at the coming of Chriſt. He will come, but to their coſt and torment, for he will take a<g ref="char:EOLhyphen"/>way their candleſtick, and caſt them into outer darkneſſe; <hi>Elſe I will come, &amp;c.</hi>
+               </p>
+               <p>The firſt of theſe four is the Propo<g ref="char:EOLhyphen"/>ſition which I ſhall ſpeak unto, <hi>viz.</hi> That for a people to remember from whence they are fallen, doth very much conduce to their recovery and reſtauration. In the handling whereof, I ſhall ſhew,
+<list>
+                     <item>1. What it is to remember.</item>
+                     <item>2. That to remember doth conduce to recovery.</item>
+                     <pb n="9" facs="tcp:54940:9"/>
+                     <item>3. How remembring from whence we are fallen, doth conduce to re<g ref="char:EOLhyphen"/>covery.</item>
+                  </list>
+               </p>
+               <p>To the firſt, <hi>viz.</hi> what it is to remem<g ref="char:EOLhyphen"/>ber. The word hath three ſignifica<g ref="char:EOLhyphen"/>tions; each and every of which do's very well ſuite with what is intended in the Text.</p>
+               <p n="1">1. <hi>To remember,</hi> is to call to minde that which we had forgotten, which we had let ſlip out of our memory. And ſo it's uſed in <hi>Mat.</hi> 26.25. <hi>When the Cock crew, Peter remembred the words of Jeſus,</hi> (and that very remembrance ingaged him to repent; <hi>For he went out and wept bitterly.) He remembred the words of Jeſus,</hi> that is, he called to mind what <hi>Jeſus</hi> had told him, and he had forgotten, <hi>viz. That before the Cock crew he ſhould deny him thrice.</hi> So then to call to mind that which we once were, and to look back upon that which we once did, and from which we are now fal<g ref="char:EOLhyphen"/>en, is uſeful for our recovery &amp; reſtau<g ref="char:EOLhyphen"/>ration to that ſtate.</p>
+               <pb n="10" facs="tcp:54940:10"/>
+               <p n="2">2. <hi>To remember</hi> ſignifies to meditate upon; Now meditation is a thinking of a thing over and over, again and a<g ref="char:EOLhyphen"/>gain; 'tis the fixing and ſettling of the thoughts upon ſuch or ſuch a ſubject. So 'tis us'd in <hi>Pſ.</hi> 63.6. <hi>I remember thee upon my bed,</hi> (and preſently addes, as an explanation of his meaning) <hi>and me<g ref="char:EOLhyphen"/>ditate of thee in the night-wathes.</hi> So that to remember is not barely to cal a thing to minde, but to keep it in minde, to revolve it over &amp; over. So, <hi>Joh.</hi> 15.20. Chriſt charges them to remember thoſe words, <hi>viz. That the Diſciple is not above his Maſter.</hi> To remember, that is, to think often of, and muſe much up<g ref="char:EOLhyphen"/>on thoſe words. Now thus a ſettled meditation upon, and keeping in mind the thoughts of what we once were, &amp; what we once did, and what we once had, and from all which we are now fallen, doth very much conduce to the re-inſtating of us into that condition.</p>
+               <p n="3">3. There is yet an higher degree of meaning in the word, and that is, as
+<pb n="11" facs="tcp:54940:10"/>it ſignifies <hi>to lay to heart;</hi> not only to call to minde, and keep in minde, but to lay to heart: <hi>Remember from whence thou art fallen,</hi> that is, lay it to heart, be ſeriouſly and tenderly affected with it; for that's the laying of a thing to heart. According to this ſenſe yon have the word u'sd, <hi>Iſaiah</hi> 57.11. <hi>Thou haſt not remembered, nor laid it to thine heart.</hi> And in the <hi>Lamentations,</hi> chapt. 3. <hi>v.</hi> 19, 20. 'tis very pathetically and feel<g ref="char:EOLhyphen"/>ingly expreſt; <hi>Rmembring mine af<g ref="char:EOLhyphen"/>fliction and my miſery, the worm-wood and the gall, my ſoul hath them ſtill in remembrance, and is humbled in me.</hi> This is that which our remembrance is to reach unto, <hi>viz.</hi> to an humbling, to an heart-affecting, yea, to an heart-afflicting, for our being fallen; and thus to remember doth exceedingly conduce to our recovery; and that it doth ſo, is <hi>the ſecond thing</hi> which I am to prove.</p>
+               <p>And this I prove by two irreprove<g ref="char:EOLhyphen"/>able witneſſes.</p>
+               <pb n="12" facs="tcp:54940:11"/>
+               <p n="1">1. Gods owne Teſtimony.</p>
+               <p n="2">2. The experience of fallen ones or backſliders themſelves.</p>
+               <p n="1">1. God himſelfe, who is truth, ſpeaks the truth and cannot lie, tells us ſo much in <hi>Jerem.</hi> 8.5, 6. <hi>Why then is this people of Jeruſalem ſlidden back with a perpetual backſliding? they hold faſt de<g ref="char:EOLhyphen"/>ceit, they refuſe to return. I hearkened and heard, but they ſpake not aright; no man repented him of his wickedneſſe, ſay<g ref="char:EOLhyphen"/>ing, What have I done?</hi>
+               </p>
+               <p>As much as if he had ſaid, How comes it to paſſe? what's the reaſon? why is it, that no man repented of his wickedneſſe? 'Tis, ſaith he, becauſe no man asked himſelf, <hi>What he had done?</hi> no man remembred from whence he was fallen; no man did ſo much as conſider his wayes, nor caſt an eye back upon his former converſation, <hi>No man ſaid, What have I done.</hi> This remembring is a reflex act, 'tis a kinde of <hi>catechizing</hi> the ſoul, putting queries to a mans heart: Now ſaith he, there
+<pb n="13" facs="tcp:54940:11"/>is no man doth this, they call not to mind, nor lay to heart their backſli<g ref="char:EOLhyphen"/>dings. <hi>They that minde not what they have done, are not like to minde what they ſhould do.</hi> The ſum of it amounts to this, that if men did but remember from whence they were fallen, 'twere ſcarce poſſible, but they ſhould re<g ref="char:EOLhyphen"/>pent, return and do their firſt works.</p>
+               <p n="2">2. <hi>Beſides Gods Teſtimony,</hi> you ſhall have another to ſecond it, (that out of the mouth of two witneſſes this word may be eſtabliſht) &amp; that is, the experience of backſliders or fallen ones. That in <hi>Hoſ.</hi> 2.7. is a pregnant inſtance: <hi>Then ſhall ſhe ſay, I will go and returne to my firſt husband;</hi> Why ſo? <hi>ask you, why?</hi> there is good reaſon for it; <hi>For then it was better with me then now.</hi>
+               </p>
+               <p>Here you ſee, that calling to minde from whence ſhe was fallen, ingaged her to return; <hi>I will return, for it was better, &amp;c.</hi> Go where we will, we ſhall never ſpeed ſo well as in walking
+<pb n="14" facs="tcp:54940:12"/>with God; and if we decline his way, and go out of his pathes, we ſhall never be at eaſe till we returne again.</p>
+               <p>It will never be ſo well as it was at firſt, till we come to our firſt Huſ<g ref="char:EOLhyphen"/>band; <hi>It was better then, then now.</hi>
+               </p>
+               <p>Another experience as evidential as the former, you have from the Prodi<g ref="char:EOLhyphen"/>gal, <hi>Luk.</hi> 15. who, ſaith the text, <hi>When he came to himſelf,</hi> (Marke that, <hi>when he came to himſelf,</hi> the man was not himſelf before; ſin beſots men, it darkens and dulls their underſtand<g ref="char:EOLhyphen"/>ings, that a man is not a man, but is beſide himſelf) <hi>But when he came to himſelf, he quickly went from himſelf unto his father;</hi> when he called to minde what he once had in his fathers houſe, when he remembred his for<g ref="char:EOLhyphen"/>mer ſtate, and compar'd his paſt with his preſent condition, now, ſaith he, <hi>I will ariſe and go to my father;</hi> when he remembered from whence he was fallen, he repented, &amp;c.</p>
+               <p>
+                  <hi>A third,</hi> and no leſſe famous an expe<g ref="char:EOLhyphen"/>rience,
+<pb n="15" facs="tcp:54940:12"/>you have of this in <hi>Pſal.</hi> 119.59. <hi>I bethought me,</hi> ſaith he, <hi>of my ways, and turned my feet unto thy Teſtimo<g ref="char:EOLhyphen"/>nies:</hi> He ſpeaks the language of a man that had been wandering, that had gone out of his way, and turned aſide to by-paths; but at laſt is at a ſtand, &amp; makes an halt, and then bethought himſelf: I began, ſaith he, to call to minde whence I came, whither I was going, and where I was: and find<g ref="char:EOLhyphen"/>ing that I was not right, but was fallen; I fac'd about, <hi>and turned my feet unto thy Teſtimonies.</hi>
+               </p>
+               <p>Thus you ſee the truth clearly evin<g ref="char:EOLhyphen"/>ced, That remembring from whence we are fallen, doth very much conduce to our recovery.</p>
+               <p>
+                  <hi>The third thing</hi> which I have to do, is to ſhew you how remembring from whence we are fallen, doth help us to returne, what kinde of influence it hath upon our hearts; or what are the things which it makes uſe of to engage us to returne.</p>
+               <pb n="16" facs="tcp:54940:13"/>
+               <p>It works upon us theſe three wayes.</p>
+               <p>It works
+<list>
+                     <item>1. <hi>By way of ſhame.</hi>
+                     </item>
+                     <item>2. <hi>By way of fear.</hi>
+                     </item>
+                     <item>3. <hi>By way of ingenuity.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="1">1. The remembring from whence we are fallen, works upon us by mak<g ref="char:EOLhyphen"/>ing uſe of that <hi>ſhame</hi> and ſhame fac'd<g ref="char:EOLhyphen"/>neſſe which is in man. Man <hi>(if not hardened by ſin)</hi> is a modeſt creature, and will bluſh at a fault when he ſees it; Now when he comes to remember what he once was, and now is not; and what he once did, and now doth not; what he once enjoyed, and is now deprived thereof; the man is a<g ref="char:EOLhyphen"/>ſhamed, and bethinks himſelf to returne for very ſhame.</p>
+               <p>You know when a man hath had the name and fame of a valiant man, and ſhall now be reputed, and report<g ref="char:EOLhyphen"/>ed a coward, he will need no other ſpur then ſhame for the quickening of him, to approve himſelf a man that may recover his firſt honour.</p>
+               <p>Shame hath a very great influence
+<pb n="17" facs="tcp:54940:13"/>on men, and truly, <hi>(as the Proverb ſaith)</hi> Paſt ſhame, and paſt goodneſſe.</p>
+               <p>But if a man retain his modeſty, and do not get a brazen fore-head, a whores face, or a brow of braſſe, there's more then hopes of his reco<g ref="char:EOLhyphen"/>very, whenever he remembers from whence he is fallen.</p>
+               <p>This needs no clearing, 'tis ſo clear; yet take a proof of it from <hi>Ezek.</hi> 16. towards the latter end, <hi>v.</hi> 61. <hi>Then thou ſhalt remember thy wayes;</hi> pray mark it, <hi>Then thou ſhalt remember thy wayes;</hi> and what then? <hi>Thou ſhalt be aſhamed.</hi>
+               </p>
+               <p>So alſo, <hi>v.</hi> 63. <hi>That thou mayeſt re<g ref="char:EOLhyphen"/>member, and be confounded, and never open thy mouth any more, becauſe of thy ſhame, when I am pacified towards thee:</hi> Mark it, ſhame even after I am pacifi<g ref="char:EOLhyphen"/>ed; ſhame after reconciliation; after God remembers his Covenant, it will become us to remember our wayes, which have not been good, and <hi>that with ſhame.</hi> In <hi>ver.</hi> 60. ſaith he, <hi>I will remebmber my Covenant,</hi> and, <hi>v.</hi> 61.
+<pb n="18" facs="tcp:54940:14"/>
+                  <hi>Then ſhalt thou remember thy wayes.</hi>
+               </p>
+               <p>Now the ſhame ariſeth upon this account, that a man ſhould fall from that duty, that love and ſervice from which he hath no reaſon, nor ſhadow, nor pretence of reaſon to fall. <hi>'Tis the moſt unreaſonable thing in the world to ſin againſt God;</hi> and if man be ask'd why he ſins? he muſt for ever ſpeechleſſe, that is, ſilent, not having any reaſon to give, any thing to ſay, why he ſhould depart from God.</p>
+               <p>Thus God diſputes it with back<g ref="char:EOLhyphen"/>ſliding <hi>Iſrael,</hi> Jer. 2. Thus ſaith the Lord, <hi>What iniquity have your fathers found in me, that they are gone far from me, and have walk<g ref="char:EOLhyphen"/>ed after vanity?</hi> As if God had ſaid, What evil have I done? as Chriſt ſaid, For which of my good works do you ſtone me? what have you to lay to my charge?
+<pb n="19" facs="tcp:54940:14"/>what occaſionhave I given you that you ſhould not love me now as at the firſt? what reaſon can you pro<g ref="char:EOLhyphen"/>duce for your Apoſtaſie, and for your falling from your firſt love? am not I as lovely as ever, and as loving as ever? for ſo God reaſons with them in the latter end of that Chapter: <hi>O generation,</hi> O vile, fool<g ref="char:EOLhyphen"/>iſh, reaſonleſſe generation, <hi>ſee the Word of the Lord,</hi> gain-ſay it if you can; <hi>have I been a wilderneſſe unto Iſrael, or a land of darkneſſe?</hi> If ſo, you have ſome occaſion to revolt and turn away backward; but if not, <hi>wherefore then ſay my people,</hi> what reaſon have my people to ſay, <hi>We will come no more to thee?</hi> Oh! what a ſhameful thing (ſaith God) is this, that a people ſhould go from a God that never did them hurt, but good all their dayes? A God, who when they wanted bread, fed them; when they wanted wa<g ref="char:EOLhyphen"/>ter, ſmote the rock, and gave them
+<pb n="20" facs="tcp:54940:15"/>drink, <hi>He was no wilderneſſe to them in the wilderneſſe;</hi> While they were in a barren land, God was fruitful<g ref="char:EOLhyphen"/>neſſe to them, he rained Manna from Heaven, and fed them with Angels food, and gave them Honey out of the rock, &amp;c.</p>
+               <p>Now after this expoſtulation, when a man reflecting upon himſelf, ſhall look back upon, and read over his wayes, and then finde I had no reaſon to break the holy, juſt and good commandments of my God; I can give God no account why I ſhould returne to folly, why I ſhould walk after vanity, <hi>ly<g ref="char:EOLhyphen"/>ing vanities,</hi> why I ſhould forſake my firſt love; What follows here<g ref="char:EOLhyphen"/>upon, but ſhame and bluſhing? ſo that for very ſhame, the man re<g ref="char:EOLhyphen"/>pents and returnes <hi>to do his first works.</hi>
+               </p>
+               <p n="2">2. Remembring from whence we are fallen, works upon us <hi>by
+<pb n="21" facs="tcp:54940:15"/>way of fear.</hi> There is in man a fear when he hath committed evil; fear falls upon him, and the man is afraid, leſt the iniquitie of his heels ſhould overtake him. You know, that no ſooner had <hi>Adam</hi> ſinned, but the man was afraid, and hid himſelf for fear. No ſooner had <hi>Cain</hi> ſinned, but <hi>Cain</hi> was afraid, and preſently his counte<g ref="char:EOLhyphen"/>nance fell. <hi>When men fall, their counte<g ref="char:EOLhyphen"/>nance and their courage falls.</hi> When once men remember from whence they are fallen, they feare leſt threatnings ſhould take hold of them, and are afraid leſt God ſhould reward them according to their iniquities.</p>
+               <p>God ſhakes his rod over backſli<g ref="char:EOLhyphen"/>ders, and threatens them, that if they do not come to him, <hi>he will come, &amp;c.</hi> If they come not to him for their ſafe<g ref="char:EOLhyphen"/>ty, he will come to them for their ruine. Now <hi>very feare,</hi> leſt the wrath and damnation which God hath de<g ref="char:EOLhyphen"/>nounced againſt ſinners, ſhould fall
+<pb n="22" facs="tcp:54940:16"/>upon them, and be their portion; very feare (I ſay) ingages them to re<g ref="char:EOLhyphen"/>turne.</p>
+               <p>
+                  <hi>And my beloved,</hi> God doth allow in us this principle of fear; none of the faculties or affections of man are extin<g ref="char:EOLhyphen"/>guiſhed, but all made uſe of in work<g ref="char:EOLhyphen"/>ing man God-ward; God doth not on<g ref="char:EOLhyphen"/>ly make uſe of a mans modeſty, &amp; love, and ingenuity, but he makes uſe alſo of that fearfulneſſe that is in man: and therefore you ſhall finde, that Chriſt himſelf (<hi>ſurely not for nought</hi>) gives this rule to his own Diſciples: <hi>Fear not him that can kill only the body, but fear him that can take ſoul and body and throw them into hell, I ſay unto you, Fear him.</hi> And as the Apoſtle ſaith, ſo may I, <hi>Knowing the terror of the Lord, we per<g ref="char:EOLhyphen"/>ſwade men;</hi> Knowing what <hi>a dreadfull thing 'tis to fall into the hands of the living God,</hi> we perſwade men to remember from whence they are fallen, and to repent.</p>
+               <p n="3">3. <hi>But then thirdly,</hi> remembring
+<pb n="23" facs="tcp:54940:16"/>from whence we are fallen, works up<g ref="char:EOLhyphen"/>on our <hi>ingenuity</hi> too. Man is a very do<g ref="char:EOLhyphen"/>cible and teachable creature, and is exceedingly wrought upon by cour<g ref="char:EOLhyphen"/>teſies and kindneſſes; Now when a ſoul ſees, that God doth not only threaten him, in caſe he do nor come in, that he ſhall be damned; but alſo promiſes him in caſe he do come in, that he ſhall be welcome, that he ſhall be ſaved; this ſo works upon mans in<g ref="char:EOLhyphen"/>genuity, that he cannot finde it in his heart to ſtand it out againſt ſuch a God</p>
+               <p>A God of love and kindneſſe, who promiſes all the entertainment that love can make for poor ſouls; and, <hi>Oh Lord,</hi> how ſweet will that be!</p>
+               <p>God deals not with man after the manner of men, <hi>Jer.</hi> 3.1. <hi>They ſay,</hi> (ſaith God) <hi>If a man put away his wife, and ſhe go from him, and become another mans, ſhall ſhe return again?</hi> No, ſay they, <hi>by no means; But I ſay. Thou, and though thou haſt plaid the harlot with many lovers, yet come,</hi> and welcome <hi>to
+<pb n="24" facs="tcp:54940:17"/>me, ſaith the Lord.</hi>
+               </p>
+               <p>Now what ſoul can finde in its heart, when God ſaith, Come, and I will pardon all thy backſlidings, I will forgive all thine iniquities, I will en<g ref="char:EOLhyphen"/>tertain thee, and remember thy ſin no more, thou ſhalt never heare of it again, I will never upbraid thee with falling from thy firſt love, if thou wilt return and make thine abode with me: <hi>What ſoul, I ſay,</hi> can look God in the face, and turne his back upon that face, that lovely and ſmiling, love<g ref="char:EOLhyphen"/>looking face? <hi>Who can do it?</hi>
+               </p>
+               <p>I remember a very notable inſtance of this ingenuity in <hi>Saul</hi> towards <hi>David;</hi> it's a place worth your turn<g ref="char:EOLhyphen"/>ing to it, to reade and obſerve it, 1 <hi>Sam.</hi> 24. You know that <hi>David</hi> had an ad<g ref="char:EOLhyphen"/>vantage againſt <hi>Saul,</hi> and could have cut off his head, but <hi>David</hi> cuts off only the lap of his garment, to let <hi>Saul</hi> know that he could (for it was in his power to) have done more; Now ſaid <hi>David, Behold, this day thine
+<pb n="25" facs="tcp:54940:17"/>eyes</hi> (ſufficient witneſſes) <hi>have ſeen how the Lord had delivered thee into mine hands, and ſome bade me kil thee</hi> (would I have obſerved the opportunity of providence, or attended to counſel, I had ſlain thee,) <hi>but mine eye ſpared thee,</hi> (whoſe eye ſpared not me,) <hi>and I ſaid, I will not put forth mine hand a<g ref="char:EOLhyphen"/>gainſt my Lord,</hi> (though my Lord hath put forth his hand againſt me.) <hi>Moreover, my Father,</hi> (if thou doubt it) <hi>ſee, yea, ſee the skirt of thy Robe in my hand, for in that I cut off the skirt of thy Robe, and killed thee not; know thou and ſee,</hi> (for 'tis undeniably true) <hi>that there is no tranſgreſſion in my hand, that I have not ſinned,</hi> (as 'tis charged upon me, as if I ſought not only the Crown, but the Kings life, that I might have his head, and then the Crown,) and if not, <hi>Why,</hi> Oh why <hi>hunteſt thou my ſoul</hi> i.e. my life, <hi>to take it?</hi> Here is DA<g ref="char:EOLhyphen"/>VIDS plea. Let us now ſee the iſſue and ſucceſſe thereof, <hi>verſ.</hi> 16. <hi>It came to paſſe, when</hi> David <hi>had made an end of
+<pb n="26" facs="tcp:54940:18"/>ſpeaking theſe wordes, that Saul</hi> (melt<g ref="char:EOLhyphen"/>ing and weeping) <hi>ſaid, Is this thy voice, my ſon</hi> (Oh my ſon) <hi>David, and Saul lift up his voice and wept, and he ſaid</hi> (yea, and had cauſe to ſay) <hi>to David, Thou art more righteous then I:</hi> (and he proves it clearly thus,) <hi>For thou haſt rewarded me good, whereas I rewarded thee evil, and thou haſt</hi> (de<g ref="char:EOLhyphen"/>monſtratively) <hi>ſhewed this day, that thou haſt dealt well with me; for as much as when the Lord had delivered me into thine hand, thou didſt not kill me;</hi> (which he wondred at upon this account) <hi>if a man finde his enemy, will he let him go well a way?</hi> Oh no, and at laſt, ſaith the Text, <hi>Saul went home; Saul</hi> ſcorned to be ſo baſe to hunt after <hi>Davids</hi> life any more; No, but <hi>Saul went home.</hi> Why now here is the caſe, the very caſe, <hi>(my beloved)</hi> we are all every one of us a backſlidden man, that's fallen into the hands of God; He might have cut off our heads, but <hi>(Oh mercy!)</hi> he only cuts off the skirt of our gar<g ref="char:EOLhyphen"/>ments,
+<pb n="27" facs="tcp:54940:18"/>and when he hath done, he ſhewes it us, and then askes us, Oh ye ſinners, <hi>ye ſinners,</hi> how can yeo hunt after my Glory? how can ye hunt after my Name? how can ye break my holy Commandments? with what face dare ye do theſe things?</p>
+               <p>Now I ſay, <hi>very ingenuity</hi> makes the ſoul to cry out as <hi>Saul</hi> did, Is this thy voice, O my God? <hi>is this thy voice?</hi> have I (<hi>alas, I have</hi>) done wicedly, I will do ſo no more; I will go home, LORD, <hi>I will go home.</hi> I will hunt after thy Name, and thy Glory no more; for thou (<hi>Oh love!</hi>) though thou didſt finde me thine enemy, yet didſt thou let me go well away. Oh, <hi>ſaith Ingenuity,</hi> ſhall I now be an enemy to the God, that hath been a friend to me? God forbid. Ah no, I <hi>will go home.</hi>
+               </p>
+               <p>Take but one inſtance of this over<g ref="char:EOLhyphen"/>coming conſideration, wherein you ſhall ſee backſliders returning upon
+<pb n="28" facs="tcp:54940:19"/>this very account, in <hi>Jer.</hi> 3.22. <hi>Re<g ref="char:EOLhyphen"/>turne, ye backſliding children,</hi> ſaith the Lord, <hi>and I will heal your backſliding;</hi> What followes hereupon? <hi>Behold, we come unto thee, Oh Lord, our God.</hi> What Ingenuity (if any left) can ſtand it out againſt ſuch ſweet invitations? ſuch not only alluring, but ſecuring pro<g ref="char:EOLhyphen"/>miſes? ſurely none. <hi>Behold, we come!</hi>
+               </p>
+               <p>Thus much, <hi>or thus little</hi> may ſuffice concerning the Doctrinal part, to have ſhewen you, That remembring or cal<g ref="char:EOLhyphen"/>ling to minde from whence we are fallen, doth very much conduce to our recovery, and how it doth it by working upon our Modeſty, Fear and Ingenuity. <hi>What remains now?</hi>
+               </p>
+               <p>But to beſeech every one <hi>to remem<g ref="char:EOLhyphen"/>ber whence ye are fallen,</hi> for we are all fallen ſhort of the glory of God. And here we might take an occaſion to look as farre back as <hi>Paradiſe,</hi> and to view that innocent ſtate wherein man <hi>once</hi> ſtood, and there alſo to take an account
+<pb n="29" facs="tcp:54940:19"/>
+                  <hi>how well</hi> it was with man then, when he ſtood before God, having no clo<g ref="char:EOLhyphen"/>thing but his innocency; and therefore needed not to be aſhamed though na<g ref="char:EOLhyphen"/>ked; <hi>no ſin, no ſhame.</hi>
+               </p>
+               <p>Certainly, <hi>my beloved,</hi> it is not with us, <hi>alas, it is not with us,</hi> our bluſhing tells us that it is not with us, as when we came out of the hands of God; Our feare alſo tells us, that it is not with us, as when God made us; if God ſhould come to us, as he did to <hi>Adam,</hi> and ſay, <hi>Adam, where art thou?</hi> where art thou, O man? I am afraid, that he would finde (<hi>as well as make</hi>) us afraid; he would finde us running be<g ref="char:EOLhyphen"/>hinde the trees of the garden to ſhelter our ſelves, and ſay, <hi>I heard thy voice, and was afraid.</hi>
+               </p>
+               <p>Now I ſay, let us call to mind from whence we are fallen, for we are all Renegadoes, we are all degenerated, we are all ſlidden back, &amp; fallen down into a lumpiſh, earthly condition; <hi>Oh let us look back again to Paradiſe,</hi> and let
+<pb n="30" facs="tcp:54940:20"/>our eyes affect our hearts, that we may be re-inſtated, yea, into a better Para<g ref="char:EOLhyphen"/>diſe even into the ſecond <hi>Adam, the Lord Chriſt from heaven, heavenly;</hi> There's no way to Paradiſe but by Chriſt, <hi>This day ſhalt thou be with me in Paradiſe;</hi> Be with me, marke that; when a man is with Chriſt, (<hi>that I may allude</hi>) he is then in Paradiſe, then truly in happi<g ref="char:EOLhyphen"/>neſſe. <hi>That day wherein Chriſt comes to a mans houſo, ſalvation comes to a man; and that day that a man comes to Chriſt, he comes to ſalvation.</hi>
+               </p>
+               <p>Oh, let us long to be diſſolved in this ſenſe, to die to our ſins, <hi>that we may be with Chriſt;</hi> that we again enjoy that old acquaintance which man had with God before he ſinned, before ſhame, and before fear ſeized upon our hearts.</p>
+               <p>But ſeeing this is not the <hi>direct</hi> meaning, import, or ſcope of this place, I ſhall paſſe it by, having given it this touch by the way.</p>
+               <p>This word <hi>preperly</hi> relates to us,
+<pb n="31" facs="tcp:54940:20"/>as we have pretended to look heaven<g ref="char:EOLhyphen"/>ward again, by having an eye to <hi>Christ,</hi> making a profeſſion of the Name and fear of God: and that which it calls upon us for, is <hi>to conſider whether it be with us as at firſt,</hi> whether it be with us as in the dayes of our youth, when we came in to God in the beginning of our dayes. Let us look back a little, and <hi>remember from whence we are fallen;</hi> for I am afraid, it will be made appear that we are fallen, not only ſhort of God, (<hi>for that we are at beſt</hi>) but ſhort of our ſelves; we are not as we were, we do not do as we did, it is not with us as in moneths paſt.</p>
+               <p>Now that you may know whether and wherein you are fallen, <hi>and ſo re<g ref="char:EOLhyphen"/>member it as to repent, and do the firſt works;</hi> I ſhal ſhew you what Chriſtians are at their firſt coming in, and conver<g ref="char:EOLhyphen"/>ſion to God; <hi>I ſhall draw the picture of their life, though not to the life,</hi> and ſet before you ſome of their frames and
+<pb n="32" facs="tcp:54940:21"/>works at firſt. There are ten things which I ſhall commend to your conſi<g ref="char:EOLhyphen"/>deration, <hi>with my prayer to God, that they may conduce to recovery.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The firſt thing is this,</head>
+               <p>Firſt, <hi>That at the firſt</hi> Profeſſours looked more after goodneſſe, then after greatneſſe; they minded more the beautifying of their ſoules, then the <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>orning of their bodies; they minded more eternity and the things thereof, then they did time and the things thereof; they cared more to be the Lords people, then to be Lords amongſt the people. When others cry, <hi>Who will ſhew us any good,</hi> (corne, and wine, and o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le,) their cry is, <hi>Lord lift up upon us the light of thy countenance;</hi> Let us enjoy our God, take the world who will. This, <hi>I believe,</hi> ſome of you know was once your heart; <hi>well then,</hi> if now thou minde greatneſſe more then goodneſs, &amp; the adorning of thy body more then the beautifying of
+<pb n="33" facs="tcp:54940:21"/>thy ſoul, and the things of this world more then the things of eternity and eternal life, thou art fallen. <hi>O re<g ref="char:EOLhyphen"/>member from whence thou art fallen.</hi> Souls had wont to be ſo taken up with the longing after communion with God, that they were ſcarce at leiſure to beſtow their looks upon the worlds vanity; If thou now be at leiſure to beſtow thine heart, thou art fallen; <hi>O remember then from whence thou art fallen.</hi>
+               </p>
+               <p>It is a very glorious frame that is mentioned concerning our fore<g ref="char:EOLhyphen"/>fathers, in the 11th. of the <hi>Hebrewes, Abraham,</hi> and <hi>Jſaac,</hi> and <hi>Jacob;</hi> in the 13th. <hi>verſ. Theſe all died in faith, not having received the promiſes; but ha<g ref="char:EOLhyphen"/>ving ſeen them a far off, were perſwaded of them, and embraced them,</hi> (to em<g ref="char:EOLhyphen"/>brace a promiſe at a thouſand years diſtance, two thouſand years diſtance that is noble faith;) <hi>and confeſſed that they were ſtrangers and pilgrims on the earth; for they that ſay ſuch things, de<g ref="char:EOLhyphen"/>clare
+<pb n="34" facs="tcp:54940:22"/>plainly that they ſeek a Countrey.</hi> (Mark) their whole buſines was to go home to God; all their travel in this world, was to travel heaven-ward; they make no more uſe of this earth, but to ſet their feet on it, and walk on heaven-ward, they declared <hi>plain<g ref="char:EOLhyphen"/>ly;</hi> no Demonſtration is more evi<g ref="char:EOLhyphen"/>dent, then that <hi>Abraham,</hi> and <hi>Iſaac,</hi> and <hi>Jacob</hi> ſought a Countrey; that they were not taken up with the things of this world, they ſought a countrey.</p>
+               <p>Now <hi>(my beloved)</hi> if we are come to this, that we declare plainly, that we ſit down and build our houſes, &amp; our Palaces, and out Cities, as if this were to be our reſt <hi>are we not fallen?</hi> Surely if <hi>Abraham,</hi> and <hi>Iſaac,</hi> and <hi>Jacob</hi> were alive, they would bluſh to ſee Profeſ<g ref="char:EOLhyphen"/>ſours in our dayes, that Pilgrims ſhould take up their abode on earth; Well then, <hi>Remember from whence thou art fallen,</hi> and go to thy old wont again; look after goodneſſe more then greatneſſe, and communion with
+<pb n="35" facs="tcp:54940:22"/>God more then enioyment <hi>of</hi> the world. <hi>But then in the ſecond place,</hi>
+               </p>
+               <p n="2">II. <hi>At the firſt,</hi> when Believers come in to Jeſus Chriſt, they are very induſtrious in all holy duties, pub<g ref="char:EOLhyphen"/>lickly and privately; they will take paines for God, and for their ſoules, and will not offer unto God that that coſt them nought; <hi>They will riſe early, and go to bed late, I, and eat the bread of carefulneſs; The doing of their fathers will,</hi> for that is their meat and their drink; and certainly <hi>if it be not thus now,</hi> thou art fallen; if thou put off God with any thing, nay, (<hi>may I not fear</hi> put off God) with nothing, art thou not fallen?</p>
+               <p>Thou hadſt wont to have been much in prayer, and much at hearing; if now thou art but little at prayer, &amp; little at hearing; art thou not fallen? They had wont to long for Sabbaths, and, O when will they come? and now they thinke Sabbaths long, and when will they be gone, <hi>&amp; art thou not fallen?</hi> O
+<pb n="36" facs="tcp:54940:23"/>member from whence thou art falen, do thy firſt works, pray as in the dayes of old, and hear as in the dayes of old, <hi>with an appetite.</hi>
+               </p>
+               <p>Many a time <hi>ſome of your ſouls know</hi> that you could leave the world to follow prayer and hearing; and now do not your ſouls tell you to your face, you can leave prayer and hear<g ref="char:EOLhyphen"/>ing for the world? <hi>and is not this a fall?</hi> I, and the fall is great. <hi>O remember from whence thou art fallen, and do thy firſt works,</hi> to thy old induſtry again.</p>
+               <p>
+                  <hi>My beloved,</hi> it is a great miſtake to think that duties are drudgeries; if people abound in duty, they are afraid leſt they ſhould come under a Cove<g ref="char:EOLhyphen"/>nant of Works: why <hi>(my beloved)</hi> I tell you, that under the Goſpel you muſt work for your living, <hi>Work out your ſalvation with fear and trembling;</hi> I ſay it again, under the Goſpel you muſt work for your living; He that will not labout <hi>(in this ſenſe)</hi> he ſhall never eat; I am afraid that <hi>many under
+<pb n="37" facs="tcp:54940:23"/>pretence of fearing a Covenant of Works, have thrown away the Works of the Covenant.</hi> O remember from whence ye are fallen, and to your firſt works againe; up and be doing, be as induſtrious (as ever) at hearing, and praying, for it is for your ſouls. <hi>But then,</hi>
+               </p>
+               <p n="3">III. Beleevers and profeſſors <hi>at firſt,</hi> when they began to be Saints, though they prayed, much and heard much, they thought it all but little <hi>yea, all nothing,</hi> unleſſe they enjoyed God in all theſe; <hi>if they</hi> at any time <hi>came to the wells, and found no waters, they have gone away ſhamed;</hi> if they had come to her, come to prayers, and have not enjoyed God, have not fou<g ref="char:cmbAbbrStroke">̄</g>d their hearts wrought upon, to be made the more humble &amp; the more holy by it; they have gone ſighing a<g ref="char:EOLhyphen"/>way, &amp; with groans they have depar<g ref="char:EOLhyphen"/>ted from the very Throne of Grace; <hi>well then,</hi> but if now thou canſt be contented with bare hearing, though
+<pb n="38" facs="tcp:54940:24"/>thou be never the better for it, and with bare praying, though never the better for it; I tell thee thou art falen, <hi>O remember from whenoe thou art fallen, and to thy firſt works again.</hi>
+               </p>
+               <p>Never think that the work is done till thou be drawen neerer to God by it, (as the Apoſtle ſaith) ſo order it, <hi>that all your meetings may be for the better, and not for the worſe.</hi>
+               </p>
+               <p>Now when are our meetings for the better, but when we are the better for our meetings? <hi>What is it to draw near to God in prayer, if we be not drawn nearer to God by prayer?</hi> What is it to go and aske for humility, and abide proud? to go and aske for heavenly-mindedneſſe, and abide earthly? <hi>What is this?</hi> will bare praying argue the ſouls communion with God? No, but when a ſoule is caſt into the mould of his prayer, and hath enioyed the frame he hath prayed for, then he may ſay he hath had communion with God; an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> therfore (I ſay) return
+<pb n="39" facs="tcp:54940:24"/>to your firſt works; never think hearing and praying enough, unleſſe you have your God in, and the work of God upon your hearts. <hi>But then,</hi>
+               </p>
+               <p n="4">IV. Chriſtians primitive, (let me call them primitive Chriſtians) <hi>at their firſt coming in to God,</hi> all their ex<g ref="char:EOLhyphen"/>preſions to God and man are genuine natural, without Art, ceremony or complement; they deal down-right, plainly and honeſtly with God and man; their prayers to God, they are not a heap of words, but a ſtreame of af<g ref="char:EOLhyphen"/>fection; they are not a multitude of expreſſions, but breathings and long<g ref="char:EOLhyphen"/>ings of ſoul after God; their heart firſt ſpeaks their words, and then their words ſpeak their hearts to God, they feel what they do; <hi>I, but now,</hi> if thy expreſſions to God be matter of Art, and matter of complement; if thou put God off with a parcel of good language, thou art fallen.</p>
+               <p>Time was when thy heart ſpake firſt, if now thy tongue run before
+<pb n="40" facs="tcp:54940:25"/>thy heart, thou art fallen. <hi>O remember to do thy firſt works again.</hi>
+               </p>
+               <p>And as to men their expreſſions were as honeſt, and as cordial, and as ſincere as to God; they ſpake what they meant, and they meant what they ſpake; they did not ſpeak every one to his neighbor, with a heart and a heart. I am afraid we have too ſad a cauſe to make complaint with the Prophet in the 12th. <hi>Pſal. Help, Lord, the godly man ceaſeth, the faithfull failes from a<g ref="char:EOLhyphen"/>mong the children of men; they ſpeak vanitie everyone with his neighbour, with flattering lips, and with a double tongue do they ſpeak:</hi> a heart &amp; a heart, that is, they ſo ſpeak, that a man doth not know them when they ſpeak: A man can lay no more ſtreſſe upon their words, then upon the wind; they give one as good words as any in the world, and one hugges himſelfe to think, <hi>O this will come to ſomething,</hi> and all theſe words come to nothing. This was not at firſt, men made con<g ref="char:EOLhyphen"/>ſcience
+<pb n="41" facs="tcp:54940:25"/>firſt of ſpeaking, and then of performing; men were ſhie of promi<g ref="char:EOLhyphen"/>ſing, but if they promiſed, they were ſo honeſt as to keep their words, though they loſt by it, though it were to their hurt, though it were to their prejudice; if it be not ſo now, thou art fallen; <hi>O remember then</hi> (I may ſay) <hi>thy firſt words</hi> in this ſenſe, and let thy words and thy expreſſions be genuine and natural, the very breathings of thy heart; do not complement with God or man. But then in the fifth place, <hi>(for I will diſpatch all I can.)</hi>
+               </p>
+               <p n="5">V. Believers, or Chriſtians, or Saints <hi>(call them what you will)</hi> at their firſt coming in, they have a very high and honourable eſteem of them that bring them in; their hearts are knit to them, who knit their hearts to God; they are almoſt married to them, that mar<g ref="char:EOLhyphen"/>ried them to Chriſt; they love them ſo dearly, ſo cordially.</p>
+               <p>
+                  <hi>I</hi> wil ſhew you but one inſtance to
+<pb n="42" facs="tcp:54940:26"/>ſpeak for all the reſt. In <hi>Galati<g ref="char:EOLhyphen"/>ans.</hi> 4. It pleaſed God to make uſe of <hi>Paul</hi> to convert the <hi>Galatians,</hi> to bring them home to Jeſus Chriſt; now ſaith he in the fifteenth Verſe, <hi>When my temptation was in my fleſh, you deſpiſed not, nor rejected, but received me as an Angel of God, yea, as Chriſt Jeſus:</hi> If Chriſt himſelf had come in perſon, you could not have given him more honourable entertainment, and a more cordial welcome then you gave me. But now (ſaith he) <hi>Where is then the bleſſedneſſe you ſpake of before? for I bear you record, that if it had been poſsible you would have plucked out your own eyes to have given them to me</hi> Surely they were dear indeed, that were dearer then ones <hi>own eyes;</hi> and yet (marke but the next Verſe,) <hi>Am I become your enomy, becauſe I tell you the truth?</hi> They that once, <hi>at firſt</hi> would have pulled out their eyes for <hi>Paul,</hi> would at laſt have pulled out <hi>Pauls</hi> eyes, and <hi>were they not fallen think you?</hi>
+               </p>
+               <pb n="43" facs="tcp:54940:26"/>
+               <p>Time was, when beautiful were the feet of them that brought the glad ti<g ref="char:EOLhyphen"/>dings of peace; not only beautiful were the glad tidings of peace which they brought, but they that brought them were beautifull; that is, they were welcome; why now, with what face canſt thou ſay, the tidings of peace which they brought are lovely, but they that brought them are loath<g ref="char:EOLhyphen"/>ſome? with what face canſt thou ſay it? I am always afraid that that which is brought, is never welcome, when they that bring it are not welcome.</p>
+               <p>
+                  <hi>(My beloved)</hi> time was <hi>(to my know<g ref="char:EOLhyphen"/>ledge)</hi> time hath been, when a godly Miniſter that God hath made uſe of to convert a ſoul, Ohow dear was he? and how near was he lodged to the hearts of ſuch Perſons! but ah, but now, not a good look, nor a good word for them that did them no wrong but this, to bring them in to Chriſt; <hi>pardon them this wrong.</hi> What ſaith <hi>Paul, Am I become your enemy, becauſe
+<pb n="44" facs="tcp:54940:27"/>I tell you the truth?</hi> O forgive me this wrong. I ſeek to ſave you, &amp; you ſeek to undo me; pardon me that wrong.</p>
+               <p>
+                  <hi>(My beloved)</hi> I durſt ask many a ſoul, whether if ever they knew Jeſus Chriſt indeed and in truth, God did not uſe ſome or other Miniſter of the Goſpel to bring them in? I ſay gener<g ref="char:EOLhyphen"/>ally; if ſo, why then ſhould not that be as deſirable to bring thee up that was deſirable when it brought thee in? Is it an injury to help thee heaven<g ref="char:EOLhyphen"/>ward? doth it do thee any wrong to ſave thy ſoul? if ſo, be their enemie, though they tel thee the truth; but if it do good to thee, and to ſave thy ſoul be a courteſie, make much of them. If God ſhould take away the Candle<g ref="char:EOLhyphen"/>ſtick, or the Candle out of the ſtick, thou would'ſt wiſh for it again; but if any be otherwiſe minded, let me tell them, they are fallen; and let me be<g ref="char:EOLhyphen"/>ſeech them to <hi>remember from whence they are fallen, and to repent, and do their firſt works.</hi> But in the ſixth place,</p>
+               <pb n="45" facs="tcp:54940:27"/>
+               <p n="6">VI. Beleevers <hi>at firſt,</hi> upon their firſt advance heaven-ward, while they put their foot forward to eternal life; O how watchful were they over their hearts, and over their wayes, killing ſinne in the very firſt motions of it!</p>
+               <p>I dare ſay, that a thought of being proud, a thought of being covetous, a thought of ſinning hath pierced their ſouls as a ſword; and O how have they gone mourning all that day long, wherein they have found an earthly minde, and an inclination to decline from God! <hi>So tender were their ſoules,</hi> that if Satan did but offer a temptation, their very hearts riſe, I, and in their might they riſe up againſt it, and were ſo truly conſci<g ref="char:EOLhyphen"/>encious, that they abſtained from it, I, and abhorred the very appearances of evil; If a thing did but look like ſinne, though it were not a ſinne; yet if it did but look like a ſinne, O how were they afraid to look at it! how would they ſtand at a diſtance from
+<pb n="46" facs="tcp:54940:28"/>pitch, &amp; touch it not, leſt they ſhould be defiled! how ſhie were they of looking upon the wine, when it was red in the glaſſe! &amp; if a garment were but ſported with the fleſh, O at what a diſtance would they ſtand!</p>
+               <p>Now <hi>(My beloved)</hi> if it be not ſo, you are fallen; if you have loſt this tender<g ref="char:EOLhyphen"/>neſſe, and loſt this conſcienciouſneſſe; and can now make bold, not only with the appearances of evil, but with appearing evil, &amp; apparent evils, <hi>are you not fallen?</hi> Time was when you were afraid to look like a proud perſon, what now to be a proud per<g ref="char:EOLhyphen"/>ſon, is it not to fal think ye? Time was when they were afraid, leſt their car<g ref="char:EOLhyphen"/>riage ſhould give any body to think they were wanton; I, but now to car<g ref="char:EOLhyphen"/>ry it like wantons, is it not to fall? My beloved, I beſeech you, remember your firſt works, that good tender<g ref="char:EOLhyphen"/>neſſe and bleeding of ſoul at but a touch of ſin. <hi>Againe,</hi>
+               </p>
+               <p n="7">VII. They were not only watch<g ref="char:EOLhyphen"/>full
+<pb n="47" facs="tcp:54940:28"/>over themſelves, fearfull to of<g ref="char:EOLhyphen"/>fend, and <hi>bleſſed is that man that ſo fear<g ref="char:EOLhyphen"/>eth alwayes;</hi> but they were alſo watch<g ref="char:EOLhyphen"/>full over their brethren, over one an<g ref="char:EOLhyphen"/>other, they were their brothers keep<g ref="char:EOLhyphen"/>ers; I, and would not in any wayes ſuffer ſin upon their brother: and <hi>I muſt profeſſe,</hi> I do not know wherein profeſſors are more fallen then in this. It is true indeed, they watch; but is it not for one anothers haltings? It is true indeed, they will reprove but is it not with reproaches? Saints had wont to go like <hi>Shem</hi> and <hi>Japhet,</hi> backward to cover the nakedneſs of their brothers; and now like <hi>wicked Cain,</hi> who can faſteſt diſcover their brothers nakedneſſe? and O what a fine thing it is, if they can but find an<g ref="char:EOLhyphen"/>other as bad as themſelves, as if ano<g ref="char:EOLhyphen"/>ther mans ſin would juſtifie them, and free them from condemnation!</p>
+               <p>Moreover, if theſe ſouls in the dayes of old, could not gaine their brothet by exhortation, or counſel, or
+<pb n="48" facs="tcp:54940:29"/>reproof; why, they would go home, and mourne exceedingly, as <hi>Jeremiah</hi> ſaith; If I cannot prevaile, <hi>I will go and mourn in ſecret;</hi> and, O, how did their eyes run down with teares, be<g ref="char:EOLhyphen"/>cauſe others did not keep Gods Laws! but alas! now, that that <hi>Paul</hi> would have told the world of weeping, men tell the world of laughing; and that is that there are men, <hi>whoſe god is their belly, who are enemies to the Croſſe of Chriſt;</hi> O remember from whence ye are fallen, and do your firſt works: Leave reproaches, but uſe repoofs; and inſtead of watching for haltings, be ſure to watch to keep from halting. <hi>(But to make haſt)</hi> in the 8th. place,</p>
+               <p n="8">VIII. There was this remarkable (and I beſeech you obſerve it) in all primitive Profeſſors, and all young beginners, (as I may call them) they took a ſpecial care of all their Fami<g ref="char:EOLhyphen"/>lies, and Relations comitted to their care; O how did they travel in birth for their children, till they were new<g ref="char:EOLhyphen"/>borne!,
+<pb n="49" facs="tcp:54940:29"/>and travel again till Chriſt were formed in them; O! how would they beſeech the Lord, that their ſer<g ref="char:EOLhyphen"/>vants might ſerve God? what care there was to make every one in the Family a Saint, a holy wife, a holy child, &amp; a ho<g ref="char:EOLhyphen"/>ly ſervant, to have a Church in a houſe?</p>
+               <p>You know, GOD called <hi>Abraham</hi> his frind, why? <hi>I know, he will teach his chil<g ref="char:EOLhyphen"/>dren after him,</hi> &amp; ſaith <hi>Joſhua, As for my part, do you what you think good, but I &amp; my houſe we will ſerve the Lord.</hi> O, what care there was among the old Profeſſors, the old Puritans (you cal'd them) to bring up their children in the fear of God, and to look to it, that a vile perſon ſhould not be let into, much leſſe abide in their houſe, if they could help it? But now <hi>(My beloved)</hi> is it not the ſad complaint that is (and is to be) made, no children more neglected then Profeſſors chil<g ref="char:EOLhyphen"/>dren, no ſervants more neglected then Profeſſors ſervants? O that this ſhould be ſpoken in theſe days where there is more light in words, but (it ſeems) more
+<pb n="50" facs="tcp:54940:30"/>darkneſſe in deeds; <hi>O remember from whence you are fallen!</hi>
+               </p>
+               <p>To your old Family-work again, O ſet up Family-duties again lif ever you mean to have good Families, up with Family<g ref="char:EOLhyphen"/>duties again; if ever you mean to have good Relations, pray more with them, &amp; pray more for them; if ever you mean to have good children, O give them up to God, and teach them the fear of the Lord, train them up in his paths be<g ref="char:EOLhyphen"/>times. Little would one have thought that ever it ſhould have been a queſtion among Chriſtians, whether one ſhould teach children the fear of the Lord; whe<g ref="char:EOLhyphen"/>ther one ſhould teach a child the trade of his way, when he is young, that when he is old he may not depart from it?</p>
+               <p>I remember that it was the ſaying of a Heathen, being asked, what things we were to teach children to know? We muſt (ſaid he) teach them to know that when they are young, that they muſt do when they are old: that was his anſwer. <hi>We were beſt call him a Chriſtian, and call
+<pb n="51" facs="tcp:54940:30"/>Chriſtians Heathens,</hi> for by their practice both may be ſaid. Is it not a ſhame that it ſhould be ſaid, no children ſo rude, ſo vile, ſo abuſing the Name of God, as them that will be (forſooth) the moſt eminent Profeſſours, and of them that have attained (in pretention) to more ſteps then ordinary heaven-ward? <hi>But in the nineth place,</hi>
+               </p>
+               <p n="9">IX. Saints <hi>at their firſt coming in</hi> to God in the beginning of their days they were viſible Saints, he that did run might read an alteration. Alas! the Saints are grown inviſible, and are they not fallen? <hi>Tertullian</hi> tells us that Chriſtians were known by the amendment of their lives; no man ſo meek as the Chriſtian, no man ſo holy as the Chriſtian, ſo juſt, ſo upright, ſo faithfull as the Chriſtian; they were known all the world over by being the beſt men, they were viſible Saints; a man might have tead the image of JESUS CHRIST in them, and the verteus of their Maſter
+<pb n="52" facs="tcp:54940:31"/>were limned over; <hi>The lived the word of life in the works of their lives.</hi>
+               </p>
+               <p>But now Saints (I ſay) are grown inviſible, and are they not fallen? Truly there are ſcarce any outward words or works almoſt to be found, by which one can diſcerne a Saint from a ſinner in our age; It was otherwiſe once, but we are fallen. They will tell you, O what ſweet enjoyments they have within! it may well be within, for none can ſee it with<g ref="char:EOLhyphen"/>out; Chriſt tells us, <hi>By their fruits</hi> (ſaith he) <hi>you ſhall know them;</hi> And, <hi>Hereby, ſhall all men know that ye are my Diſciples, if ye keep my Commandments.</hi> O we can talk of raviſhments within, and O what a place of Scripture was ſet home upon my heart at ſuch a time! and O how God raviſhed me upon ſuch a day! O but can ointment be hid? can a man con<g ref="char:EOLhyphen"/>ceale coales in his boſome? where is this humility and holineſſe that ſhould ariſe from this communion with God? where is the righteouſnes, the juſtice, the upright dealing amongſt men that was
+<pb n="35" facs="tcp:54940:31"/>wont to be viſible amongſt the Saints? <hi>O that in a viſible worldt he Saints ſhould be inviſible!</hi>
+               </p>
+               <p>It is ſtoried of a Philoſopher (if I miſtake not) the Cynick, <hi>Diogenes,</hi> that he went with a Lanthorn and candle at high noon into the Market-place; the people asked him what he meant to do? I am going to find out a man (ſaith he:) A man (ſay they?) here is a multi<g ref="char:EOLhyphen"/>tude of men, here are ſtore of men in the Market; O (ſaith he) I would find out <hi>a man,</hi> one that acts like a man, and lives like aman.</p>
+               <p>Truly, one might go <hi>(would God there were no cauſe to ſay it,)</hi> through Congregations, &amp; through ſuch meeting places as theſe are, with a lanthorn and candle amongſt the Saints to finde out a Saint, amongſt Profeſ<g ref="char:EOLhyphen"/>ſors to finde out a Profeſſor.</p>
+               <p>You will ſay, here are ſtore: I, here are Profeſſors, but where is that that is profeſ<g ref="char:EOLhyphen"/>ſed? A man may find many that profeſſe hu<g ref="char:EOLhyphen"/>mility, but where is that humility that is pro<g ref="char:EOLhyphen"/>feſſed? one may find many that profeſſe holi<g ref="char:EOLhyphen"/>neſs, but where ſhall one finde the holineſſe that is profeſſed? one may finde many that profeſſe heavenly-mindedneſſe, but where ſhall one find the heavenly-mindedneſs that is profeſſed? As he ſaid, Give me that tells me the man is a man: ſo, give me that too that tells me a Saint is a Saint; give me that that
+<pb n="54" facs="tcp:54940:32"/>makes a Saint viſible, <hi>a viſible Saint</hi> for my Religion. <hi>In the laſt place,</hi>
+               </p>
+               <p n="10">X. Saints <hi>at the firſt coming in to Jeſus Chriſt,</hi> were very choice of their company, and of their communion; they were not eve<g ref="char:EOLhyphen"/>ry bodies fellow, at leaſt every body was not theirs. Saith <hi>Paul,</hi> I am crucified to this world, I and the world is crucified to me; I am even with it, <hi>(ſaith he)</hi> I pay it in its own coine; <hi>the meaning of it is this,</hi> the world thinks not the Saints worthy of their com<g ref="char:EOLhyphen"/>pany, and the Saints think not the world worthy of theirs. At firſt they were very choice of their ſociety, 'twas a vexation to their ſoul to live in <hi>Sodome,</hi> an hell to them to be with <hi>Meſek,</hi> and to have their habitation in the tents of <hi>Kedar;</hi> they would not be amongſt the crowde, nor go with a multitude to do evil.</p>
+               <p>They were in very truth <hi>Separatiſts,</hi> that is, men that did withdraw from ſin and ſin<g ref="char:EOLhyphen"/>ners; I mean no faction, not this, nor that; but (I ſay) they were truly <hi>Separatiſts,</hi> men that ſeparated from ſinne and ſinners. You have ſomewhat in one of <hi>Pauls</hi> Epiſtles as an anſwer to that queſtion, 1 <hi>Cor.</hi> 5.9. It ſeems the <hi>(poor ſouls)</hi> were very ſhie of their company, what company they kept; and therefore ſaith he, <hi>I write to you not to keep company with Fornicators, yet not with the
+<pb n="55" facs="tcp:54940:32"/>Fornicators of this world,</hi> for then ye muſt go out of the world; the world is ſo full of them, that you will ſcarce buy or ſell, but you will meet with a drunkard, ſwearer, for<g ref="char:EOLhyphen"/>nicator, or one ſinner or other; <hi>But</hi> (ſaith he) <hi>if there be any man that is called a brother,</hi> any man that profeſſeth the Name of God, and the fear of God, and this man be a for<g ref="char:EOLhyphen"/>nicator, or this man be covetous, or this man be ſo and ſo; <hi>I would not have you eat with that man,</hi> no, I would not have you ſo much as ſit at his table, <hi>much leſſe at Gods Table</hi> with that man.</p>
+               <p>And the ſame Apoſtle ſaith, 2 <hi>Cor.</hi> 6.14. <hi>Why will ye be unequally yoaked? What communion hath light with darneſs? What fellowſhip hath Chriſt with Belial? or righteouſneſſe with un<g ref="char:EOLhyphen"/>righteouſneſs?</hi> To ſee a Saint &amp; a ſinner keep company, were to ſee the living &amp; the dead keep houſe together, and you know what ſweet work there is like to be; Why now, if thou be no more ſhie of thy company, but likeſt all, as if all were alike, thou art fallen: It may be thou canſt pleaſe thy ſelf as well in a fornicators company, or in a drunkards company, or in an earth-worms company, or in a jeſters company, as thou canſt in the company of a Saint, or in the company of a dear child of God: I tell thee, if ſo, thou art fallen; <hi>O remember from whence thou art fallen, and do thy firſt works.</hi>
+               </p>
+               <pb n="56" facs="tcp:54940:33"/>
+               <p>Be choice, (ſaith he) have no fellowſhip with the unfruitful works of darkneſſe, nor with the workers of darkneſſe, but re<g ref="char:EOLhyphen"/>prove them rather; how? by with-drawing from them, by having no more fellowſhip with them; <hi>For Saints to be intimate with ſin<g ref="char:EOLhyphen"/>ners, is to intimate that they are ſinners;</hi> and therefore I beſeech you, that you will pleaſe to remember from whence you are fallen, and let us ſo remember as to repent; Let it grieve our hearts that we have grieved our God, and let us love him the more, for that we have loved him ſo little; let us now make ſtrait ſteps to our feet, and be double dili<g ref="char:EOLhyphen"/>gent; and as it is ſaid of another of the Churches, let our works be more, I, and bet<g ref="char:EOLhyphen"/>ter at laſt then at firſt. O that as we grow in days, we may grow in grace, and abound in the work of the Lord!</p>
+               <p>Thus (my beloved) let us remember and repent, and do our firſt works; <hi>and then,</hi> when Jeſus Chriſt comes we ſhall not need to fear the removing of Candleſticks, but the lighting up of joy and peace to our ſouls; I, and he will ſay unto us, <hi>Come, ye bleſſed of my Father, inherit the Kingdom prepared for you.</hi>
+               </p>
+               <p>So much <hi>(and no more)</hi> for this time.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:54940:33"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
